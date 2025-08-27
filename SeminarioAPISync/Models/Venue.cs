@@ -4,5 +4,7 @@
     {
         public int Id { get; set; } 
         public string Adress { get; set; }
+        public int SeatsAvailables { get; set; }
+
     }
 }
